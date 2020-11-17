@@ -25,7 +25,7 @@ The program runs on the console.
 Project is: _finished_
 
 ## Inspiration
-CodeCademy FullStack engineering path
+CodeCademy Full-Stack engineer path
 
 ## Contact
 Created by @brunobernal - feel free to contact me!
